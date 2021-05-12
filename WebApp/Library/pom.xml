@@ -21,7 +21,7 @@
     <spring.version>5.2.3.RELEASE</spring.version>
     <jstl.version>1.2</jstl.version>
     <servletapi.version>2.5</servletapi.version>
-    <spring.security.version>4.0.2.RELEASE</spring.security.version>
+    <spring.security.version>5.2.10.RELEASE</spring.security.version>
   </properties>
 
   <dependencies>
